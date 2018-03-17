@@ -1,17 +1,16 @@
-html {
+body {
   font-family: Verdana;
   background-color: #000000;
+  text-align: center;
+  color: White;
 }
 
 h1 {
-  color: White;
   font-size: 50px;
   font-weight: normal;
-  text-align: center;
 }
 
 h2 {
-  color: White;
   font-size: 42px;
   font-weight: 300;
 }
@@ -19,29 +18,13 @@ h2 {
 p {
   color: Gray;
   font-size: 21px;
-  text-align: center;
 }
 
-header {
-  text-align: center;
-}
-
-p.link {
+.cta {
   font-size: 16px;
   color: Aquamarine;
-  text-align: center;
-
 }
 
-p.copyright {
+.footer {
   text-align: right;
-}
-
-.main {
-  text-align: center;
-  align-items: center;
-}
-
-footer {
-  text-align: center;
 }
